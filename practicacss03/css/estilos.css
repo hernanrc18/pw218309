@@ -1,19 +1,33 @@
 body{
 font-size: 16px;
 margin: 0px auto;
-max-width: 1078px;
-min-height: 1078px;
-
+max-width: 2048px;
+min-height: 2048px;
+background-color: #2b2b2b;
+}
+header{
+	background-color: #f0f0f0;
 }
 header input{
-	float: left;
-	margin-right: -200px;
-	margin-top: 30px;
+	margin-left: 300px;
+	margin-top: 60px;
 	position:relative;
 
 }
-#menu {
-	float: right
-	width: 50px;
+#menu{
+	float: right;
+	width:75%;
 
+}
+#seccion01 article{
+	margin-top: 40px;
+	vertical-align: top;
+	padding-left:8px; 
+	width: 23%;
+	display:inline-block;
+}
+#seccion01 article ul  {
+	list-style: none;
+	color: white;
+	
 }
