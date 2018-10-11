@@ -1,0 +1,19 @@
+body{
+font-size: 16px;
+margin: 0px auto;
+max-width: 1078px;
+min-height: 1078px;
+
+}
+header input{
+	float: left;
+	margin-right: -200px;
+	margin-top: 30px;
+	position:relative;
+
+}
+#menu {
+	float: right
+	width: 50px;
+
+}
